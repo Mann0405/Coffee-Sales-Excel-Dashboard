@@ -1,11 +1,7 @@
 # Coffee-Orders-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
-## Project Objective
-
 ## Dataset used
 - <a href="https://github.com/Mann0405/Coffee-Orders-Excel-Dashboard/blob/main/Coffee%20Orders%20Dashboard.xlsx">Dataset</a>
-
-## Questions (KPIs)
 
 - Dashboard Interaction - <a href="https://github.com/Mann0405/Coffee-Orders-Excel-Dashboard/blob/main/Snapshot%20of%20Coffee%20Orders%20Dashboard.PNG">View Dashboard</a>
 
@@ -17,9 +13,3 @@
 
 ## Dashboard
 <img width="1018" height="523" alt="Snapshot of Coffee Orders Dashboard" src="https://github.com/user-attachments/assets/d1901837-b8a4-4ddf-b955-10cd842bfe04" />
-
-
-## Project Insight
-
-
-## Final Conclusion:
