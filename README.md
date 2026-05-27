@@ -3,6 +3,22 @@
 ## Dataset used
 - <a href="https://github.com/Mann0405/Coffee-Orders-Excel-Dashboard/blob/main/Coffee%20Orders%20Dashboard.xlsx">Dataset</a>
 
+## Questions (KPIs)
+
+- Compare the orders of different coffee types over time on a single chart.
+
+- Which roast type generates the highest sales?
+
+- Which country contributes the most revenue?
+
+- Who are the top customers based on purchases?
+
+- How do coffee sales change over time?
+
+- Does loyalty card membership influence sales performance?
+
+- Which coffee package size is most preferred by customers?
+  
 - Dashboard Interaction - <a href="https://github.com/Mann0405/Coffee-Orders-Excel-Dashboard/blob/main/Snapshot%20of%20Coffee%20Orders%20Dashboard.PNG">View Dashboard</a>
 
 ## Process
