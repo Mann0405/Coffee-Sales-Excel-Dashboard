@@ -1,4 +1,4 @@
-# Coffee-Orders-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Coffee-Sales-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
 
