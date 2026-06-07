@@ -17,8 +17,6 @@ The objective of this Coffee Sales Dashboard is to analyze coffee bean sales per
 
 - Who are the top customers based on purchases?
 
-- How do coffee sales change over time?
-
 - Does loyalty card membership influence sales performance?
 
 - Which coffee package size is most preferred by customers?
@@ -36,9 +34,13 @@ The objective of this Coffee Sales Dashboard is to analyze coffee bean sales per
 
 ## Project Insight
 - Light Roast is the most popular roast type, generating the highest sales, followed by Medium Roast and Dark Roast, indicating a stronger customer preference for lighter coffee flavors.
+
 - The United States is the largest revenue-generating market, contributing approximately $35,639 in coffee sales accounting for significantly higher sales than the United Kingdom and Ireland.
+
 - The overall top customers are Allis Wilmore, Brenn Dundredge, Terri Farr, Nealson Cuttler, and Don Flintoff, accounting for the highest purchase values.
+
 - Customers without a loyalty card generate slightly higher revenue than loyalty card members, suggesting that the current loyalty program may have limited impact on increasing sales.
+
 - The 2.5 kg coffee package size is the most preferred by customers, generating the highest sales and indicating strong demand for larger-volume purchases.
 
 ## Final Conclusion:
